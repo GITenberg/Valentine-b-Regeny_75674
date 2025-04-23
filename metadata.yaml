@@ -1,0 +1,50 @@
+_repo: Valentine-b-Regeny_75674
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Szép, Ernő
+    alias: Szep, Erno
+    birthdate: 1884
+    deathdate: 1953
+    gutenberg_agent_id: '57281'
+    url: http://www.gutenberg.org/2009/agents/57281
+    wikipedia: https://hu.wikipedia.org/wiki/Sz%C3%A9p_Ern%C5%91
+description: 'Reading ease score: 62.6 (8th & 9th grade). Neither easy nor difficult
+  to read.'
+gutenberg_bookshelf:
+- 'Browsing: Literature'
+- 'Browsing: Fiction'
+gutenberg_issued: '2025-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75674'
+language: hu
+pgterms:marc905: 20250318050910szp
+pgterms:marc906: '1927'
+pgterms:marc907: hu
+production_note: Albert László from page images generously made available by the Hungarian
+  Electronic Library
+publication_note: '  $aBudapest :$bSinger és Wolfner, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+summary: '"Valentine: Regény" by Ernő Szép is a novel likely written in the early
+  20th century. The story unfolds in a romantic and vibrant setting, focusing on the
+  lives of two primary characters, Valentine Poóy and György Békász, as they navigate
+  love and relationships in the picturesque backdrop of Venice.  The opening of the
+  narrative introduces readers to a couple dining at the elegant Danieli hotel, depicting
+  their intimate exchange filled with humor and tenderness. The lavish atmosphere
+  is rich with sensory details, from the wine they''re enjoying to the enchanting
+  vibe of the restaurant. As György and Valentine share playful banter, it becomes
+  evident that their relationship is both affectionate and youthful, characterized
+  by playful teasing and romantic dreams of the future. This whimsical introduction
+  sets the stage for a larger exploration of their lives and the complexities of love
+  and societal expectations, providing a glimpse into the charming yet complicated
+  relationships that will unfold throughout the novel. (This is an automatically generated
+  summary.)'
+title: 'Valentine : $b Regény'
+url: http://www.gutenberg.org/ebooks/75674
