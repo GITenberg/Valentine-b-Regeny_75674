@@ -1,5 +1,8 @@
 _repo: Valentine-b-Regeny_75674
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Szép, Ernő
@@ -11,6 +14,8 @@ creator:
     wikipedia: https://hu.wikipedia.org/wiki/Sz%C3%A9p_Ern%C5%91
 description: 'Reading ease score: 62.6 (8th & 9th grade). Neither easy nor difficult
   to read.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75674#Valentine-b-Regeny
 gutenberg_bookshelf:
 - 'Browsing: Literature'
 - 'Browsing: Fiction'
